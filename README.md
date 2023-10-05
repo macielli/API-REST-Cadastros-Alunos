@@ -57,7 +57,7 @@ Exemplo de corpo de requisição em JSON:
 }  
 ~~~
 
-(imagem post insomnia)
+![Captura de Tela 2023-10-05 às 16 36 38](https://github.com/macielli/API-REST-Cadastros-Alunos/assets/141888830/4ebbbe0d-e619-47cb-89ae-1c0b37b883d7)
 
 [6] - Agora, todas as configurações estão devidamente ajustadas para testar a API no Insomnia.
 
