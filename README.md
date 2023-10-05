@@ -61,6 +61,6 @@ Exemplo de corpo de requisição em JSON:
 
 [6] - Pronto! Todas as configurações estão devidamente ajustadas para testar a API no Insomnia.
 
-Espero que aproveite explorar e utilizar esta API de Cadastro de Alunos. Caso tenha alguma dúvida ou sugestão de melhoria, não hesite em entrar em contato.
+Espero que aproveite para explorar e utilizar esta API de Cadastro de Alunos. Caso tenha alguma dúvida ou sugestão de melhoria, não hesite em entrar em contato.
 
-Agradeço por utilizar este projeto e desejo sucesso em seus desenvolvimentos!
+👩🏻‍💻
