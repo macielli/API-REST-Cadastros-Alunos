@@ -39,7 +39,7 @@ npm run dev
 
 ⚠️  Importante: Todas as rotas requerem um parâmetro de autenticação independente, representado pela senha do sistema. Portanto, é necessário adicionar o parâmetro 'Query'. Você pode incluí-lo no final do endereço de cada rota, como por exemplo: http://localhost:3000/alunos?senha=senha123 ou no Insomnia, na aba 'Query' de todas as rotas.
 
-(imagem query)
+[(imagem query)](https://github.com/macielli/API-REST-Cadastros-Alunos/issues/2#issue-1928959123)
 
 [5] - A rota POST é a única que requer o corpo (conteúdo) da requisição. Nele, os dados do aluno devem ser fornecidos em formato JSON no Insomnia. Todos os campos são obrigatórios, com exceção do campo "turma", que é opcional.
 
