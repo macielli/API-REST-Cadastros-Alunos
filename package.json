@@ -1,0 +1,18 @@
+{
+  "name": "api-rest-cadastro-alunos",
+  "version": "1.0.0",
+  "description": "API REST para um sistema de Cadastro de Alunos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "keywords": [],
+  "author": "Macielli Maciel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
